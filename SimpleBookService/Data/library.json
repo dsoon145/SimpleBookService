@@ -1,0 +1,10 @@
+[
+  {
+    "BookId": 1,
+    "BookName": "Lord of the Rings",
+    "Author": "J R Tolkien",
+    "Category": "Adventure",
+    "Description": "Hobbits",
+    "TimeStamp": "03/02/2022"
+  }
+]
